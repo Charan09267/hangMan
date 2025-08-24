@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>HangMan Game</title>
+  
+</head>
+<body>
+  <!-- win or lose -->
+  <div class="game-modal">
+    <div class="content">
+      <img src="images/lost.gif" alt="GIF">
+      <h4>Game Over!</h4>
+      <p>The correct word was: <b>RainBow</b> </p>
+      <button class="play-again">Play Again</button>
+    </div>
+  </div>
+  <div class="container">
+    <!-- Left part -->
+    <div class="hangman-box">
+      <img src="images/hangman-0.svg" alt="hangMan Image">
+      <h1>Hangman Game</h1>
+    </div>
+    <!-- Right part -->
+    <div class="game-box">
+      <!-- Dashed word -->
+      <ul class="word-display"></ul>
+      <!-- hint text -->
+      <h4 class="hint-text">
+        Hint:
+        <b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro vero consequuntur .</b>
+      </h4>
+      <!-- No.og Guesses left -->
+      <h4 class="gusses-text">
+        Incorrect  Gusses:
+        <b>0 / 6</b>
+      </h4>
+      <!-- Keyboard Display -->
+      <div class="keyboard">
+        
+      </div>
+
+    </div>
+
+  </div>
+
+   <script src="scripts/word-list.js"></script>
+  <script src="scripts/script.js"></script>
+ 
+  
+  
+</body>
+</html>
