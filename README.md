@@ -64,7 +64,7 @@ Add score tracking
 Improve animations
 
 ## Demo Images
-![HangMan Image](screenshots/Screenshot 2025-12-24 190253.png)
+![HangMan Image](./screenshots/Screenshot%202025-12-24%20190253.png)
 
 ## Author
 Charan Immati
