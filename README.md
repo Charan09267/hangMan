@@ -63,11 +63,11 @@ Add score tracking
 
 Improve animations
 
+## Demo Images
+![HangMan Image](screenshots/Screenshot 2025-12-24 190253.png)
+
 ## Author
 Charan Immati
-
-markdown
-Copy code
                         
 ### If you want, I can:
 - Customize this for **college mini-project**
