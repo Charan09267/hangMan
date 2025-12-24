@@ -26,13 +26,17 @@ Open the project folder
 Run index.html in any web browser
 
 ## Project Structure
-pgsql
-Copy code
-hangman-game/
-│── index.html
-│── style.css
-│── script.js
-How to Play
+hangman-game/<br>
+│── index.html<br>
+│── style.css<br>
+│── scripts/<br>
+│   ├── script.js<br>
+│   └── word-list.js<br>
+│── images/<br>
+│   └── screenshot.png<br>
+│── README.md<br>
+
+## How to Play
 A random word is selected
 
 Guess letters one by one
@@ -48,7 +52,7 @@ DOM manipulation
 
 Conditional logic
 
-##Basic game development concepts
+## Basic game development concepts
 
 Future Enhancements
 Add difficulty levels
@@ -65,7 +69,7 @@ Charan Immati
 markdown
 Copy code
                         
-##If you want, I can:
+### If you want, I can:
 - Customize this for **college mini-project**
 - Make it **resume / recruiter friendly**
 - Add **screenshots section**
