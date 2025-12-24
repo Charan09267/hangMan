@@ -25,7 +25,7 @@ Open the project folder
 
 Run index.html in any web browser
 
-##Project Structure
+## Project Structure
 pgsql
 Copy code
 hangman-game/
@@ -41,7 +41,7 @@ Each wrong guess reduces remaining attempts
 
 Win by guessing the word before attempts finish
 
-##Learning Outcomes
+## Learning Outcomes
 JavaScript event handling
 
 DOM manipulation
@@ -59,7 +59,7 @@ Add score tracking
 
 Improve animations
 
-##Author
+## Author
 Charan Immati
 
 markdown
