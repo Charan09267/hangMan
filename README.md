@@ -25,7 +25,7 @@ Open the project folder
 
 Run index.html in any web browser
 
-Project Structure
+##Project Structure
 pgsql
 Copy code
 hangman-game/
@@ -41,14 +41,14 @@ Each wrong guess reduces remaining attempts
 
 Win by guessing the word before attempts finish
 
-Learning Outcomes
+##Learning Outcomes
 JavaScript event handling
 
 DOM manipulation
 
 Conditional logic
 
-Basic game development concepts
+##Basic game development concepts
 
 Future Enhancements
 Add difficulty levels
@@ -59,13 +59,13 @@ Add score tracking
 
 Improve animations
 
-Author
+##Author
 Charan Immati
 
 markdown
 Copy code
-
-If you want, I can:
+                        
+##If you want, I can:
 - Customize this for **college mini-project**
 - Make it **resume / recruiter friendly**
 - Add **screenshots section**
