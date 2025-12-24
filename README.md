@@ -20,7 +20,7 @@ It is a beginner-friendly project to understand DOM manipulation, events, and ba
 ## How to Run the Project
 1. Download or clone the repository  
    ```bash
-   git clone https://github.com/your-username/hangman-game.git
+   git clone https://github.com/Charan09267/hangMan.git
 Open the project folder
 
 Run index.html in any web browser
@@ -56,15 +56,16 @@ Conditional logic
 
 Future Enhancements
 Add difficulty levels
-
-Show hints
-
 Add score tracking
-
 Improve animations
 
-## Demo Images
-![HangMan Image](./screenshots/Screenshot%202025-12-24%20190253.png)
+## 🖼️ Demo Images
+
+![HangMan Image 1](screenshots/Screenshot%202025-12-24%20190253.png)
+![HangMan Image 2](screenshots/Screenshot%202025-12-24%20190316.png)
+![HangMan Image 3](screenshots/Screenshot%202025-12-24%20190337.png)
+![HangMan Image 4](screenshots/Screenshot%202025-12-24%20190350.png)
+
 
 ## Author
 Charan Immati
